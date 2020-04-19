@@ -1,4 +1,4 @@
-# http-proxy
+# HTTP Proxy
 
 An HTTP proxy that executes GET requests ordered by the users utilizing caching and threading.
 
